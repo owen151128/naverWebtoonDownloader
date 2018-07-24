@@ -23,9 +23,9 @@ public class NaverWebtoonConstants {
         public static String HTML_JPG = ".jpg";
         public static String IMG_END = "\" style=\"margin-left: auto; margin-right: auto; display: block;\"/>\n<br/>\n";
         public static String PREV_START = "<div style=\"text-align: center;\" ><a href=\"../";
-        public static String PREV_END = "/" + WEBTOON_HTML + "/\" >이전화</a>&nbsp;&nbsp;";
+        public static String PREV_END = "/" + WEBTOON_HTML + "\" >이전화</a>&nbsp;&nbsp;";
         public static String NEXT_START = "<a href=\"../";
-        public static String NEXT_END = "/" + WEBTOON_HTML + "/\" >다음화</a></div>";
+        public static String NEXT_END = "/" + WEBTOON_HTML + "\" >다음화</a></div>";
         public static String HTML_END = "</body></html>";
 
 
